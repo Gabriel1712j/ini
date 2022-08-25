@@ -4,9 +4,9 @@
 
    [INIObject.get](/v/0_10_0/INIObject_get.md)
 
-   [INIObject.put](/)
+   [INIObject.put](/v/0_10_0/INIObject_put.md)
 
-   [INIObjec.save](/)
+   [INIObjec.save](/v/0_10_0/INIObject_save.md)
 
 ## Instancear 
 
@@ -48,7 +48,7 @@ Al acceder a string que no sea `INI` Lanzará INIException
         i.get("day"); // INIException
    ```
 
- Para añadir nuevos. Valores se usa [put](/)
+ Para añadir nuevos. Valores se usa [put](/v/0_10_0/INIObject_put.md)
 
    ```java
 
@@ -56,7 +56,7 @@ Al acceder a string que no sea `INI` Lanzará INIException
 
    ```
 
-La función [save](/) sirve para guardar los objetos en un archivo.ini
+La función [save](/v/0_10_0/INIObject_save.md) sirve para guardar los objetos en un archivo.ini
 A cualquier error Lanzará IOException
 
    ```java
