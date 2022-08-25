@@ -2,4 +2,4 @@
 
 ## Ini guíe vertions
 
-[ini0.10.0](/v/0_10_0.md)
+[ini0.10.0](/v/0_10_0/guie.md)
