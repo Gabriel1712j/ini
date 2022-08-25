@@ -2,7 +2,7 @@
 
 ## Funciones
 
-   [INIObject.get](/v/0_10_0/GET.md)
+   [INIObject.get](/v/0_10_0/iniobject_get.md)
 
    [INIObject.put](/)
 
@@ -24,7 +24,7 @@ Al acceder a string que no sea `INI` Lanzará INIException
      }
    ```
 
-   Para acceder a los valores se usa [get](/v/0_10_0/get.md)
+   Para acceder a los valores se usa [get](/v/0_10_0/iniobject_get.md)
 
    ```java
       iniObject.get("name"); // return Objetos
